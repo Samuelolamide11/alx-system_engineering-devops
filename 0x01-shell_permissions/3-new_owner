@@ -1,0 +1,3 @@
+#!/bin/bash
+filename="hello"
+chown 3-new_owner
